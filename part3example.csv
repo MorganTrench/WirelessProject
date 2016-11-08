@@ -1,0 +1,248 @@
+Waf: Entering directory `/Users/morgantrench/Desktop/ns-allinone-3.25/ns-3.25/build'
+[1570/1814] Compiling src/olsr/model/olsr-routing-protocol.cc
+[1755/1814] Linking build/libns3.25-olsr-debug.dylib
+[1772/1814] Linking build/libns3.25-test-debug.dylib
+[1775/1814] Linking build/bindings/python/ns/point_to_point_layout.so
+[1776/1814] Linking build/bindings/python/ns/bridge.so
+[1777/1814] Linking build/bindings/python/ns/applications.so
+[1778/1814] Linking build/bindings/python/ns/aodv.so
+[1778/1814] Linking build/bindings/python/ns/dsdv.so
+[1779/1814] Linking build/bindings/python/ns/stats.so
+[1780/1814] Linking build/bindings/python/ns/internet.so
+[1781/1814] Linking build/bindings/python/ns/wifi.so
+[1782/1814] Linking build/bindings/python/ns/lr_wpan.so
+[1783/1814] Linking build/utils/ns3.25-test-runner-debug
+[1784/1814] Linking build/bindings/python/ns/internet_apps.so
+[1785/1814] Linking build/bindings/python/ns/energy.so
+[1786/1814] Linking build/bindings/python/ns/spectrum.so
+[1787/1814] Linking build/bindings/python/ns/fd_net_device.so
+[1788/1814] Linking build/scratch/testscene
+[1789/1814] Linking build/bindings/python/ns/mpi.so
+[1790/1814] Linking build/bindings/python/ns/topology_read.so
+[1791/1814] Linking build/bindings/python/ns/traffic_control.so
+[1792/1814] Linking build/bindings/python/ns/csma_layout.so
+[1793/1814] Linking build/bindings/python/ns/wave.so
+[1794/1814] Linking build/bindings/python/ns/config_store.so
+[1795/1814] Linking build/bindings/python/ns/buildings.so
+[1796/1814] Linking build/bindings/python/ns/csma.so
+[1797/1814] Linking build/bindings/python/ns/propagation.so
+[1798/1814] Linking build/bindings/python/ns/sixlowpan.so
+[1799/1814] Linking build/bindings/python/ns/point_to_point.so
+[1800/1814] Linking build/bindings/python/ns/uan.so
+[1801/1814] Linking build/utils/ns3.25-print-introspected-doxygen-debug
+[1802/1814] Linking build/bindings/python/ns/wimax.so
+[1803/1814] Linking build/scratch/subdir/subdir
+[1804/1814] Linking build/bindings/python/ns/nix_vector_routing.so
+[1805/1814] Linking build/bindings/python/ns/mobility.so
+[1806/1814] Linking build/bindings/python/ns/_core.so
+[1807/1814] Linking build/bindings/python/ns/olsr.so
+[1808/1814] Linking build/bindings/python/ns/network.so
+[1809/1814] Linking build/bindings/python/ns/mesh.so
+[1810/1814] Linking build/bindings/python/ns/antenna.so
+[1811/1814] Linking build/bindings/python/ns/flow_monitor.so
+[1812/1814] Linking build/bindings/python/ns/virtual_net_device.so
+[1813/1814] Linking build/bindings/python/ns/dsr.so
+[1814/1814] Linking build/bindings/python/ns/lte.so
+Waf: Leaving directory `/Users/morgantrench/Desktop/ns-allinone-3.25/ns-3.25/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (10.507s)
+0,	0 kbps, 	-0 average kbps, 
+1,	0 kbps, 	-0 average kbps, 
+2,	0 kbps, 	-0 average kbps, 
+3,	0 kbps, 	-0 average kbps, 
+4,	0 kbps, 	-0 average kbps, 
+5,	0 kbps, 	-0 average kbps, 
+6,	0 kbps, 	-0 average kbps, 
+7,	0 kbps, 	-0 average kbps, 
+8,	0 kbps, 	-0 average kbps, 
+9,	0 kbps, 	-0 average kbps, 
+10,	0 kbps, 	-0 average kbps, 
+11,	0 kbps, 	-0 average kbps, 
+12,	0 kbps, 	-0 average kbps, 
+13,	0 kbps, 	-0 average kbps, 
+14,	0 kbps, 	-0 average kbps, 
+15,	0 kbps, 	-0 average kbps, 
+16,	0 kbps, 	-0 average kbps, 
+17,	0 kbps, 	-0 average kbps, 
+18,	0 kbps, 	-0 average kbps, 
+19,	0 kbps, 	-0 average kbps, 
+20,	0 kbps, 	-0 average kbps, 
+21,	0 kbps, 	-0 average kbps, 
+22,	0 kbps, 	-0 average kbps, 
+23,	0 kbps, 	-0 average kbps, 
+24,	0 kbps, 	-0 average kbps, 
+25,	0 kbps, 	-0 average kbps, 
+26,	0 kbps, 	-0 average kbps, 
+27,	0 kbps, 	-0 average kbps, 
+28,	0 kbps, 	-0 average kbps, 
+29,	0 kbps, 	-0 average kbps, 
+30,	0 kbps, 	-0 average kbps, 
+31,	0 kbps, 	-0 average kbps, 
+32,	0 kbps, 	-0 average kbps, 
+33,	0 kbps, 	-0 average kbps, 
+34,	0 kbps, 	-0 average kbps, 
+35,	0 kbps, 	-0 average kbps, 
+36,	0 kbps, 	-0 average kbps, 
+37,	0 kbps, 	-0 average kbps, 
+38,	0 kbps, 	-0 average kbps, 
+39,	0 kbps, 	-0 average kbps, 
+40,	0 kbps, 	-0 average kbps, 
+41,	0 kbps, 	-0 average kbps, 
+42,	0 kbps, 	-0 average kbps, 
+43,	0 kbps, 	-0 average kbps, 
+44,	0 kbps, 	-0 average kbps, 
+45,	0 kbps, 	-0 average kbps, 
+46,	0 kbps, 	-0 average kbps, 
+47,	0 kbps, 	-0 average kbps, 
+48,	0 kbps, 	-0 average kbps, 
+49,	0 kbps, 	-0 average kbps, 
+50,	0 kbps, 	-0 average kbps, 
+51,	0 kbps, 	-0 average kbps, 
+52,	0 kbps, 	-0 average kbps, 
+53,	0 kbps, 	-0 average kbps, 
+54,	0 kbps, 	-0 average kbps, 
+55,	0 kbps, 	-0 average kbps, 
+56,	0 kbps, 	-0 average kbps, 
+57,	0 kbps, 	-0 average kbps, 
+58,	0 kbps, 	-0 average kbps, 
+59,	0 kbps, 	-0 average kbps, 
+60,	0 kbps, 	-0 average kbps, 
+61,	0 kbps, 	-0 average kbps, 
+62,	0 kbps, 	-0 average kbps, 
+63,	0 kbps, 	-0 average kbps, 
+64,	0 kbps, 	-0 average kbps, 
+65,	0 kbps, 	-0 average kbps, 
+66,	0 kbps, 	-0 average kbps, 
+67,	0 kbps, 	-0 average kbps, 
+68,	0 kbps, 	-0 average kbps, 
+69,	0 kbps, 	-0 average kbps, 
+70,	0 kbps, 	-0 average kbps, 
+71,	0 kbps, 	-0 average kbps, 
+72,	0 kbps, 	-0 average kbps, 
+73,	0 kbps, 	-0 average kbps, 
+74,	0 kbps, 	-0 average kbps, 
+75,	0 kbps, 	-0 average kbps, 
+76,	0 kbps, 	-0 average kbps, 
+77,	0 kbps, 	-0 average kbps, 
+78,	0 kbps, 	-0 average kbps, 
+79,	0 kbps, 	-0 average kbps, 
+80,	0 kbps, 	-0 average kbps, 
+81,	0 kbps, 	-0 average kbps, 
+82,	0 kbps, 	-0 average kbps, 
+83,	0 kbps, 	-0 average kbps, 
+84,	0 kbps, 	-0 average kbps, 
+85,	0 kbps, 	-0 average kbps, 
+86,	0 kbps, 	-0 average kbps, 
+87,	0 kbps, 	-0 average kbps, 
+88,	0 kbps, 	-0 average kbps, 
+89,	0 kbps, 	-0 average kbps, 
+90,	0 kbps, 	-0 average kbps, 
+91,	0 kbps, 	-0 average kbps, 
+92,	0 kbps, 	-0 average kbps, 
+93,	0 kbps, 	-0 average kbps, 
+94,	0 kbps, 	-0 average kbps, 
+95,	0 kbps, 	-0 average kbps, 
+96,	0 kbps, 	-0 average kbps, 
+97,	0 kbps, 	-0 average kbps, 
+98,	0 kbps, 	-0 average kbps, 
+99,	0 kbps, 	-0 average kbps, 
+100,	0 kbps, 	nan average kbps, 
+101,	1.024 kbps, 	1.024 average kbps, 
+102,	0 kbps, 	0.512 average kbps, 
+103,	2.048 kbps, 	1.024 average kbps, 
+104,	3.584 kbps, 	1.664 average kbps, 
+105,	1.536 kbps, 	1.6384 average kbps, 
+106,	0 kbps, 	1.36533 average kbps, 
+107,	1.536 kbps, 	1.38971 average kbps, 
+108,	0 kbps, 	1.216 average kbps, 
+109,	2.048 kbps, 	1.30844 average kbps, 
+110,	2.048 kbps, 	1.3824 average kbps, 
+111,	0.512 kbps, 	1.30327 average kbps, 
+112,	1.536 kbps, 	1.32267 average kbps, 
+113,	0.512 kbps, 	1.26031 average kbps, 
+114,	0 kbps, 	1.17029 average kbps, 
+115,	2.048 kbps, 	1.2288 average kbps, 
+116,	1.024 kbps, 	1.216 average kbps, 
+117,	0.512 kbps, 	1.17459 average kbps, 
+118,	0 kbps, 	1.10933 average kbps, 
+119,	0 kbps, 	1.05095 average kbps, 
+120,	0 kbps, 	0.9984 average kbps, 
+121,	0 kbps, 	0.950857 average kbps, 
+122,	0 kbps, 	0.907636 average kbps, 
+123,	0 kbps, 	0.868174 average kbps, 
+124,	0 kbps, 	0.832 average kbps, 
+125,	0 kbps, 	0.79872 average kbps, 
+126,	0.512 kbps, 	0.787692 average kbps, 
+127,	0 kbps, 	0.758519 average kbps, 
+128,	0 kbps, 	0.731429 average kbps, 
+129,	0 kbps, 	0.706207 average kbps, 
+130,	0 kbps, 	0.682667 average kbps, 
+131,	2.56 kbps, 	0.743226 average kbps, 
+132,	1.536 kbps, 	0.768 average kbps, 
+133,	3.072 kbps, 	0.837818 average kbps, 
+134,	2.048 kbps, 	0.873412 average kbps, 
+135,	3.584 kbps, 	0.950857 average kbps, 
+136,	3.072 kbps, 	1.00978 average kbps, 
+137,	3.072 kbps, 	1.06551 average kbps, 
+138,	2.048 kbps, 	1.09137 average kbps, 
+139,	0 kbps, 	1.06338 average kbps, 
+140,	0 kbps, 	1.0368 average kbps, 
+141,	1.024 kbps, 	1.03649 average kbps, 
+142,	1.024 kbps, 	1.03619 average kbps, 
+143,	1.536 kbps, 	1.04781 average kbps, 
+144,	2.048 kbps, 	1.07055 average kbps, 
+145,	2.048 kbps, 	1.09227 average kbps, 
+146,	0.512 kbps, 	1.07965 average kbps, 
+147,	3.584 kbps, 	1.13294 average kbps, 
+148,	3.584 kbps, 	1.184 average kbps, 
+149,	3.072 kbps, 	1.22253 average kbps, 
+150,	2.048 kbps, 	1.23904 average kbps, 
+151,	1.536 kbps, 	1.24486 average kbps, 
+152,	2.56 kbps, 	1.27015 average kbps, 
+153,	2.048 kbps, 	1.28483 average kbps, 
+154,	2.56 kbps, 	1.30844 average kbps, 
+155,	0.512 kbps, 	1.29396 average kbps, 
+156,	3.584 kbps, 	1.33486 average kbps, 
+157,	0.512 kbps, 	1.32042 average kbps, 
+158,	4.096 kbps, 	1.36828 average kbps, 
+159,	2.56 kbps, 	1.38847 average kbps, 
+160,	2.048 kbps, 	1.39947 average kbps, 
+161,	1.536 kbps, 	1.4017 average kbps, 
+162,	1.024 kbps, 	1.39561 average kbps, 
+163,	3.072 kbps, 	1.42222 average kbps, 
+164,	4.096 kbps, 	1.464 average kbps, 
+165,	2.56 kbps, 	1.48086 average kbps, 
+166,	1.024 kbps, 	1.47394 average kbps, 
+167,	2.048 kbps, 	1.48251 average kbps, 
+168,	2.56 kbps, 	1.49835 average kbps, 
+169,	3.584 kbps, 	1.52858 average kbps, 
+170,	4.096 kbps, 	1.56526 average kbps, 
+171,	3.072 kbps, 	1.58648 average kbps, 
+172,	2.56 kbps, 	1.6 average kbps, 
+173,	2.56 kbps, 	1.61315 average kbps, 
+174,	1.024 kbps, 	1.60519 average kbps, 
+175,	3.584 kbps, 	1.63157 average kbps, 
+176,	1.024 kbps, 	1.62358 average kbps, 
+177,	3.072 kbps, 	1.64239 average kbps, 
+178,	3.584 kbps, 	1.66728 average kbps, 
+179,	2.048 kbps, 	1.6721 average kbps, 
+180,	0 kbps, 	1.6512 average kbps, 
+181,	3.072 kbps, 	1.66874 average kbps, 
+182,	3.584 kbps, 	1.6921 average kbps, 
+183,	1.536 kbps, 	1.69022 average kbps, 
+184,	2.048 kbps, 	1.69448 average kbps, 
+185,	4.608 kbps, 	1.72875 average kbps, 
+186,	4.096 kbps, 	1.75628 average kbps, 
+187,	3.584 kbps, 	1.77729 average kbps, 
+188,	4.096 kbps, 	1.80364 average kbps, 
+189,	1.536 kbps, 	1.80063 average kbps, 
+190,	0 kbps, 	1.78062 average kbps, 
+191,	2.048 kbps, 	1.78356 average kbps, 
+192,	3.584 kbps, 	1.80313 average kbps, 
+193,	1.536 kbps, 	1.80026 average kbps, 
+194,	0 kbps, 	1.78111 average kbps, 
+195,	2.56 kbps, 	1.78931 average kbps, 
+196,	2.56 kbps, 	1.79733 average kbps, 
+197,	3.584 kbps, 	1.81575 average kbps, 
+198,	4.096 kbps, 	1.83902 average kbps, 
+199,	3.584 kbps, 	1.85665 average kbps, 
