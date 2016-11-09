@@ -1,0 +1,37 @@
+Part 1 changes:
+Lines 695 through to line 885 were commented out and replaced with
+
+for (NeighborSet::const_iterator neighbor = N.begin (); neighbor != N.end (); neighbor++)
+    {
+      mprSet.insert (neighbor->neighborMainAddr); // Add all of N
+    }
+
+Where N is the previously constructed set of all 1-Hop neighbors to a given node/interface
+
+
+Part 2 changes:
+After line 885, just before the what would have been the original mprSet is 'set', we reduce it by half randomly:
+
+int desiredSize = mprSet.size()/2;
+while (mprSet.size() != desiredSize){
+  MprSet::const_iterator iter = mprSet.begin();
+  std::advance(iter, (rand() % mprSet.size()));
+  mprSet.erase(iter);
+}
+
+Part 3 changes:
+We achieve this by halving the size of the routing table (as hinted in class). This is done in much the same way
+the previous part. After line 1216, we inserted the following:
+
+int desiredSize = m_table.size()/2;
+while (m_table.size() != desiredSize){
+  std::map<Ipv4Address, RoutingTableEntry>::iterator iter = m_table.begin();
+  std::advance(iter, (rand() % m_table.size()));
+  m_table.erase(iter);
+}
+
+Part 4 changes:
+Here we remove checks the links are symmetric in two places (by commenting them out):
+
+RoutingProtocol::MprComputation line 609
+RoutingProtocol::RoutingTableComputation line 922
