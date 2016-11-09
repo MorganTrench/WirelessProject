@@ -54,7 +54,7 @@ void ReceivePacket (Ptr<Socket> socket){
   while ((packet = socket->Recv ()))
     {
       bytesTotal += packet->GetSize ();
-	  bytesTotalOverall += packet->GetSize ();
+    bytesTotalOverall += packet->GetSize ();
       packetsReceived += 1;
       //NS_LOG_UNCOND (PrintReceivedPacket (socket, packet));
     }
@@ -173,13 +173,16 @@ int main (int argc, char *argv[]){
 
   for (int i = 0; i < nSinks; i++)
     {
+      if ((i + nSinks) == nWifis)
+        port += 1; // Should only get incremented once, in the case when some nodes need to be sources and sinks
+
       Ptr<Socket> sink = SetupPacketReceive (adhocInterfaces.GetAddress (i), adhocNodes.Get (i));
 
       AddressValue remoteAddress (InetSocketAddress (adhocInterfaces.GetAddress (i), port));
       onoff1.SetAttribute ("Remote", remoteAddress);
 
       Ptr<UniformRandomVariable> var = CreateObject<UniformRandomVariable> ();
-      ApplicationContainer temp = onoff1.Install (adhocNodes.Get (i + nSinks));
+      ApplicationContainer temp = onoff1.Install (adhocNodes.Get ( (i + nSinks) % nWifis ) );
       temp.Start (Seconds (var->GetValue (100.0,101.0)));
       temp.Stop (Seconds (TotalTime));
     }
