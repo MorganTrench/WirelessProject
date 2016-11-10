@@ -33,5 +33,5 @@ while (m_table.size() != desiredSize){
 Part 4 changes:
 Here we remove checks the links are symmetric in two places (by commenting them out):
 
-RoutingProtocol::MprComputation line 609
-RoutingProtocol::RoutingTableComputation line 922
+RoutingProtocol::MprComputation //line 609
+RoutingProtocol::RoutingTableComputation //line 922
